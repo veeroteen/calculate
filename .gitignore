@@ -1,0 +1,9 @@
+*.log
+*.vcxproj
+x64/
+*vcxproj.filters
+*vcxproj.user
+.vs/
+*.sln
+*.vccxproj
+*.vs/
